@@ -1,6 +1,6 @@
 ## Hi, I'm Hasan Mauladawillah
 
-Computer Science student in the **Intelligent Systems** stream at **BINUS University, Malang**, born in Jeddah, Saudi Arabia.
+Computer Science student in the **Intelligent Systems** stream at **BINUS University, Jakarta**, born in Jeddah, Saudi Arabia.
 I build machine learning and computer vision projects, from cleaning the data to shipping a working app.
 **Open to AI/ML internships.**
 
