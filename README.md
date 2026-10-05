@@ -24,6 +24,6 @@ I build machine learning and computer vision projects, from cleaning the data to
 
 ### Connect
 
-- Portfolio: <!-- add your Vercel link here once it's public -->
+- Portfolio: (https://protofolio-hasan-9cbc.vercel.app/)
 - LinkedIn: [Hasan Mauladawillah](https://www.linkedin.com/in/hasan-mauladawillah-51a703330/)
 - Email: [hasanmauladawillah@gmail.com](mailto:hasanmauladawillah@gmail.com)
