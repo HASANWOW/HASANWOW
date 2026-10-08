@@ -4,14 +4,15 @@ Computer Science student in the **Intelligent Systems** stream at **BINUS Univer
 I build machine learning and computer vision projects, from cleaning the data to shipping a working app.
 **Open to AI/ML internships.**
 
-- Focus: Machine Learning, Computer Vision, NLP
-- Languages: Arabic (native), Indonesian (fluent), English (intermediate), Javanese
+- Focus: Machine Learning, Computer Vision, NLP, LLM apps
+- Languages: Arabic (native), Indonesian (native), Javanese (fluent), English (intermediate)
 - Also build web apps with React and Laravel as a freelance web developer
 
 ### Featured projects
 
 | Project | What it does | Result |
 | --- | --- | --- |
+| [JobFit AI](https://github.com/HASANWOW/JobFit-AI) | LLM app that compares a CV with a job posting: match score, skill gaps, CV tips, likely interview questions, and an application email. Validated JSON output with Pydantic, automatic retries, works with any OpenAI-compatible API (Gemini, Groq, OpenRouter). | 18 automated tests |
 | [Face Anti-Spoofing](https://github.com/HASANWOW/Face-Anti-Spoofing-System) | Real-time liveness check + face recognition from a webcam. DeepPixBis on lightweight CNNs (EfficientNet-B0, MobileNet, ShuffleNet), evaluated on OULU-NPU under varying light. | Best backbone: APCER ~1%, ACER ~25% |
 | [Air-Writing Hangul](https://github.com/Ws995566/Air-Writing-Hangul) | Write Korean characters in the air with your fingertip, tracked by MediaPipe Hands, classified with HOG features + SVM, served with Flask. | 97% test accuracy on 64 classes |
 | [FoodVibe](https://github.com/HASANWOW/Finpro-Machine-Learning) | Predicts college students' diet quality from lifestyle and emotional factors. SMOTE, feature engineering, GridSearchCV, deployed on Streamlit. | F1-score 92% (SVM) |
